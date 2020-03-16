@@ -1,0 +1,22 @@
+{
+  "name": "makeup",
+  "version": "1.0.0",
+  "description": "makeup blog",
+  "main": "index.html",
+  "engines": {
+    "npm": "6.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGUrbina/makeup.git"
+  },
+  "author": "José Urbina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGUrbina/makeup/issues"
+  },
+  "homepage": "https://github.com/JGUrbina/makeup#readme"
+}
